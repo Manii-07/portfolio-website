@@ -19,11 +19,4 @@ This repository contains the source code for my personal portfolio website. It i
 * **Projects Showcase**: Highlights my recent work in Software Development and Artificial Intelligence.
 * **About Me**: Details about my academic background (BS AI) and professional experience.
 
-##📫 Let's Connect!
-GitHub: @Manii-07
-
-LinkedIn: Usman Akram (Link update kar lein)
-
-YouTube: MANII7 (Link update kar lein)
-
 Built with ❤️ by Usman Akram
