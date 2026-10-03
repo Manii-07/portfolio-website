@@ -5,7 +5,7 @@
 This repository contains the source code for my personal portfolio website. It is designed to showcase my journey, skills, and projects as a Software & AI Developer.
 
 ## 🌐 Live Preview
-[👉 Click here to view the live portfolio](https://your-netlify-link-here.netlify.app) 
+[👉 Click here to view the live portfolio](https://usmanakramai.netlify.app/) 
 *(Note: Replace the link above with your actual Netlify live link)*
 
 ## 🛠️ Built With
@@ -19,9 +19,11 @@ This repository contains the source code for my personal portfolio website. It i
 * **Projects Showcase**: Highlights my recent work in Software Development and Artificial Intelligence.
 * **About Me**: Details about my academic background (BS AI) and professional experience.
 
-## 🚀 How to Run Locally
-To view this project on your own computer:
+##📫 Let's Connect!
+GitHub: @Manii-07
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Manii-07/portfolio-website.git](https://github.com/Manii-07/portfolio-website.git)
+LinkedIn: Usman Akram (Link update kar lein)
+
+YouTube: MANII7 (Link update kar lein)
+
+Built with ❤️ by Usman Akram
